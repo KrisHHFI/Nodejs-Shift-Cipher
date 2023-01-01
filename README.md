@@ -11,5 +11,5 @@ Check out the [demo video](https://youtu.be/KIDk3se51iE).
 
 ### About
 
-- The app was during the beginning of 2023. 
+- The app was created during the beginning of 2023. 
 - The security level of shift cipher is poor.
