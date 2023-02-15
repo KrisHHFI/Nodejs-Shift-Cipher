@@ -1,4 +1,6 @@
-# Shift_Cipher_Nodejs
+# Nodejs Shift Cipher
+
+<img src="https://images.squarespace-cdn.com/content/v1/587b630aebbd1ab22efeeb6b/4666da33-038a-44c0-bfa6-dc07f44bfb57/Shift+Cipher.png"/>
 
 Check out the [demo video](https://youtu.be/KIDk3se51iE).
 
